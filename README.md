@@ -2,7 +2,7 @@
   <img src="bg.svg" width="1200" alt="img" />
 </a>
 
-<h2 align="center">Kỹ năng!!</h2>
+<h1 align="center">Kỹ năng!!</h1>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -20,13 +20,13 @@
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <br>
-<h2 align="center">Sản phẩm demo!!</h2>
+<h1 align="center">Sản phẩm demo!!</h1>
 <br>
-<h4>Nhà hàng ăn uống</h4>
+<h3>Nhà hàng ăn uống</h3>
 <a href="https://dinhvietkhoi.github.io/restaurant" target="_blank">
   Link
 </a>
-<h4>Công nghệ sử dụng</h4>
+<h3>Công nghệ sử dụng</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
