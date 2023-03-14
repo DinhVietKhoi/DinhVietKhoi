@@ -113,4 +113,4 @@
 
 <h1 align="center">Đây là CV của mình!!</h1>
 <br>
-  <a href="https://api.cloudinary.com/v1_1/dpi2hw1lm/image/download?api_key=145666385858778&attachment=true&audit_context=eyJhY3Rvcl90eXBlIjoidXNlciIsImFjdG9yX2lkIjoiMzE5NDI2MzhlMDE2YzJiOTNmNGQ5YTcxNzA5MzcyNWQiLCJ1c2VyX2V4dGVybmFsX2lkIjoiOTAyNzNmMzI2YWM0YmY4YmU3Y2U4YjRmYThmMzNiIiwidXNlcl9jdXN0b21faWQiOiJkaW5odmlldGtob2k5OUBnbWFpbC5jb20iLCJjb21wb25lbnQiOiJjb25zb2xlIn0%3D&public_id=DINHVIETKHOI_CV_nzkshh&signature=49ebd5cc1c4154fcd120593d468de89b2f75262e&source=ml&target_filename=DINHVIETKHOI_CV_nzkshh.pdf&timestamp=1678787506&type=upload"></a>
+  <a href="https://api.cloudinary.com/v1_1/dpi2hw1lm/image/download?api_key=145666385858778&attachment=true&audit_context=eyJhY3Rvcl90eXBlIjoidXNlciIsImFjdG9yX2lkIjoiMzE5NDI2MzhlMDE2YzJiOTNmNGQ5YTcxNzA5MzcyNWQiLCJ1c2VyX2V4dGVybmFsX2lkIjoiOTAyNzNmMzI2YWM0YmY4YmU3Y2U4YjRmYThmMzNiIiwidXNlcl9jdXN0b21faWQiOiJkaW5odmlldGtob2k5OUBnbWFpbC5jb20iLCJjb21wb25lbnQiOiJjb25zb2xlIn0%3D&public_id=DINHVIETKHOI_CV_nzkshh&signature=49ebd5cc1c4154fcd120593d468de89b2f75262e&source=ml&target_filename=DINHVIETKHOI_CV_nzkshh.pdf&timestamp=1678787506&type=upload">Link tải xuống</a>
