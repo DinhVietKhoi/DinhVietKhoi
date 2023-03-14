@@ -2,9 +2,8 @@
   <img src="bg.svg" width="1200" alt="img" />
 </a>
 
-<h1>Kỹ năng!!</h1>
-<br>
-<!-- https://simpleicons.org/ -->
+<h1  align="center">Kỹ năng!!</h1>
+
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
