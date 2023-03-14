@@ -27,6 +27,8 @@
 <a href="https://dinhvietkhoi.github.io/restaurant" target="_blank">
   Link demo
 </a>
+<h3>Tóm tắt</h3>
+<span>Trang web nhà hàng ăn uốn, có thể thêm sản phẩm giỏ hàng.<span>
 <h3>Công nghệ sử dụng</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -43,6 +45,8 @@
 <a href="https://dinhvietkhoi.github.io/lofi" target="_blank">
  Link demo
 </a>
+<h3>Tóm tắt</h3>
+<span>Trang web nghe nhạc có thể thay đổi nhiều hoạt cảnh khác nhau. Đăng nhập để trò chuyện trực tiếp với mọi người.<span>
 <h3>Công nghệ sử dụng</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -61,6 +65,8 @@
 <a href="https://dinhvietkhoi.github.io/Eshop/" target="_blank">
  Link demo
 </a>
+<h3>Tóm tắt</h3>
+<span>Trang web bán quần áo.<span>
 <h3>Công nghệ sử dụng</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -75,6 +81,8 @@
 <a href="https://dinhvietkhoi.github.io/portfolio/" target="_blank">
  Link demo
 </a>
+<h3>Tóm tắt</h3>
+<span>Trang web giới thiệu bản thân.<span>
 <h3>Công nghệ sử dụng</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -89,8 +97,8 @@
 <a href="https://dinhvietkhoi.github.io/ticketCMS/" target="_blank">
  Link demo
 </a>
-<h3>Tóm tắt:</h3>
-<span>Trang web<span>
+<h3>Tóm tắt</h3>
+<span>Trang web quản lý phòng vé hội chợ, liệt kê thông tin khách hàng mua vé. Thống kê doanh thu trong tuần/tháng.<span>
 <h3>Công nghệ sử dụng</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
