@@ -19,8 +19,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
+<br>
 <h2 align="center">Sản phẩm demo!!</h2>
-<span>Tên: Nhà hàng ăn uống</span>
+<br>
+<h4>Tên: Nhà hàng ăn uống</h4>
 <a href="https://dinhvietkhoi.github.io/restaurant" target="_blank">
   Link
 </a>
+
