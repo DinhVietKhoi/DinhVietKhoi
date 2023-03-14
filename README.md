@@ -25,7 +25,7 @@
 
 <h3>1 - Nhà hàng ăn uống</h3>
 <a href="https://dinhvietkhoi.github.io/restaurant" target="_blank">
-  Link
+  Link demo
 </a>
 <h3>Công nghệ sử dụng</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -41,7 +41,7 @@
 
 <h3>2 - Web nhạc lofi</h3>
 <a href="https://dinhvietkhoi.github.io/lofi" target="_blank">
-  Link
+ Link demo
 </a>
 <h3>Công nghệ sử dụng</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -59,7 +59,7 @@
 
 <h3>3 - Shop quần áo</h3>
 <a href="https://dinhvietkhoi.github.io/Eshop/" target="_blank">
-  Link
+ Link demo
 </a>
 <h3>Công nghệ sử dụng</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -73,7 +73,7 @@
 
 <h3>4 - Portfolio</h3>
 <a href="https://dinhvietkhoi.github.io/portfolio/" target="_blank">
-  Link
+ Link demo
 </a>
 <h3>Công nghệ sử dụng</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -86,9 +86,11 @@
 &nbsp;
 
 <h3>5 - Quản lý vé</h3>
-<a href="https://dinhvietkhoi.github.io/portfolio/" target="_blank">
-  Link
+<a href="https://dinhvietkhoi.github.io/ticketCMS/" target="_blank">
+ Link demo
 </a>
+<h3>Tóm tắt:</h3>
+<span>Trang web<span>
 <h3>Công nghệ sử dụng</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
