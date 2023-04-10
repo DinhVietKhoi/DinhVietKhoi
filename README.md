@@ -19,7 +19,7 @@
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <br>
-<h1 align="center">Sản phẩm demo!!</h1>
+<h1 align="center">Dự án cá nhân!!</h1>
 <br>
 
 <h3>1 - Nhà hàng ăn uống</h3>
