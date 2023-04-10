@@ -1,6 +1,6 @@
 <h1  align="center">----------Thông tin----------</h1>
 <br>
-<h1  align="center">Đinh Viết Khôi - Front-end Developer</h1>
+<h1  align="center">Đinh Viết Khôi ... Front-End Developer</h1>
 
 <h1  align="center">Kỹ năng!!</h1>
 <br>
