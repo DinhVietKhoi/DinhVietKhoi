@@ -1,6 +1,6 @@
-<a href="#" target="_blank">
-  <img src="bg.svg" width="1200" alt="img" />
-</a>
+<h1  align="center">Thông tin!!</h1>
+<br>
+<h1  align="center">Đinh Viết Khôi - Front-end Developer</h1>
 
 <h1  align="center">Kỹ năng!!</h1>
 <br>
