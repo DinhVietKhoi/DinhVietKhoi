@@ -93,7 +93,7 @@
 &nbsp;
 
 <h3>5 - Quản lý vé</h3>
-<a href="https://dinhvietkhoi.github.io/ticketCMS/" target="_blank">
+<a href="https://dinhvietkhoi.github.io/ticket/" target="_blank">
  Link demo
 </a>
 <h3>Tóm tắt</h3>
