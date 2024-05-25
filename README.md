@@ -63,7 +63,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=CC6699" alt="FIREBASE logo" title="FIREBASE" height="25" /></span>
 &nbsp;
-
+<div align="center">-------------------------------------------------------------------------------------------------------</div>
+&nbsp;
 <h3>Shop quần áo</h3>
 <a href="https://dinhvietkhoi.github.io/Hope-Shop/" target="_blank">
  Link demo
@@ -81,7 +82,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
-
+<div align="center">-------------------------------------------------------------------------------------------------------</div>
+&nbsp;
 <h3>Portfolio</h3>
 <a href="https://dinhvietkhoi.github.io/portfolio/" target="_blank">
  Link demo
@@ -97,7 +99,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
-
+<div align="center">-------------------------------------------------------------------------------------------------------</div>
+&nbsp;
 <h3>Quản lý vé</h3>
 <a href="https://dinhvietkhoi.github.io/ticket/" target="_blank">
  Link demo
@@ -115,7 +118,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
-
+<div align="center">-------------------------------------------------------------------------------------------------------</div>
+&nbsp;
 <h1 align="center">Đây là CV của mình!!</h1>
 <br>
   <a href="https://drive.google.com/file/d/1VzcjSfls0Txxh_-N7Bar1QTfXjr2xqkU/view?usp=share_link">Link</a>
