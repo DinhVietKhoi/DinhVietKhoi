@@ -22,7 +22,7 @@
 <h1 align="center">Dự án cá nhân!!</h1>
 <br>
 
-<h3>1 - Nhà hàng ăn uống</h3>
+<h3>Nhà hàng ăn uống</h3>
 <a href="https://dinhvietkhoi.github.io/restaurant" target="_blank">
   Link demo
 </a>
@@ -40,7 +40,7 @@
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
 
-<h3>2 - Web nhạc lofi</h3>
+<h3>Web nhạc lofi</h3>
 <a href="https://dinhvietkhoi.github.io/lofi" target="_blank">
  Link demo
 </a>
@@ -60,7 +60,7 @@
 <span><img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=CC6699" alt="FIREBASE logo" title="FIREBASE" height="25" /></span>
 &nbsp;
 
-<h3>3 - Shop quần áo</h3>
+<h3>Shop quần áo</h3>
 <a href="https://dinhvietkhoi.github.io/Hope-Shop/" target="_blank">
  Link demo
 </a>
@@ -78,7 +78,7 @@
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
 
-<h3>4 - Portfolio</h3>
+<h3>Portfolio</h3>
 <a href="https://dinhvietkhoi.github.io/portfolio/" target="_blank">
  Link demo
 </a>
@@ -94,7 +94,7 @@
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
 
-<h3>5 - Quản lý vé</h3>
+<h3>Quản lý vé</h3>
 <a href="https://dinhvietkhoi.github.io/ticket/" target="_blank">
  Link demo
 </a>
