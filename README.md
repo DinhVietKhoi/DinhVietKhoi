@@ -173,4 +173,4 @@
 &nbsp;
 <h1 align="center">Đây là CV của mình!!</h1>
 <br>
-  <a href="https://drive.google.com/file/d/1VzcjSfls0Txxh_-N7Bar1QTfXjr2xqkU/view?usp=share_link">Link</a>
+  <a href="https://drive.google.com/file/d/1CSV4ibBi6LfQj5kCcvKeaZnO3kwhQ5hL/view?usp=sharing">DinhVietKhoi_Frontend_CV</a>
