@@ -31,7 +31,7 @@
 
 <h3>Nhà hàng ăn uống</h3>
 <a href="https://dinhvietkhoi.github.io/restaurant" target="_blank">
-  Link demo
+  Demo
 </a>
 <h3>Tóm tắt</h3>
 <span>Trang web nhà hàng ăn uốn, có thể thêm sản phẩm giỏ hàng.<span>
@@ -50,7 +50,7 @@
 &nbsp;
 <h3>Web nhạc lofi</h3>
 <a href="https://dinhvietkhoi.github.io/lofi" target="_blank">
- Link demo
+  Demo
 </a>
 <h3>Tóm tắt</h3>
 <span>Trang web nghe nhạc có thể thay đổi nhiều hoạt cảnh khác nhau. Đăng nhập để trò chuyện trực tiếp với mọi người.<span>
@@ -71,7 +71,7 @@
 &nbsp;
 <h3>Shop quần áo</h3>
 <a href="https://dinhvietkhoi.github.io/Hope-Shop/" target="_blank">
- Link demo
+ Demo
 </a>
 <h3>Tóm tắt</h3>
 <span>Trang web bán quần áo.<span>
@@ -90,7 +90,7 @@
 &nbsp;
 <h3>Portfolio</h3>
 <a href="https://dinhvietkhoi.github.io/portfolio/" target="_blank">
- Link demo
+ Demo
 </a>
 <h3>Tóm tắt</h3>
 <span>Trang web giới thiệu bản thân.<span>
@@ -107,7 +107,7 @@
 &nbsp;
 <h3>Quản lý vé</h3>
 <a href="https://dinhvietkhoi.github.io/ticket/" target="_blank">
- Link demo
+ Demo
 </a>
 <h3>Tóm tắt</h3>
 <span>Trang web quản lý phòng vé hội chợ, liệt kê thông tin khách hàng mua vé. Thống kê doanh thu trong tuần/tháng.<span>
